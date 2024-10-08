@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Brain_Trainer</string>
+    <string name="save">Сохранить</string>
+    <string name="get">Получить значение</string>
+</resources>
